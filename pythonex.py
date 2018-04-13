@@ -33,12 +33,6 @@ elif day == 6:
 else:
    print "That number is not between 0 and 6"
 
-
-
-
-
-
-
 #5
 while True:
     day = int(input('Day(0-6)? '))
